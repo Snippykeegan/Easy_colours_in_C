@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1645486556 source:f:\personal projects\easy colours (project)\test code\testprogram.c
+	<stdio.h>
+	"Easy_Colours.h"
+	<conio.h>
+
+1645487674 f:\personal projects\easy colours (project)\easy_colours header\easy_colours.h
+	<windows.h>
+
+1645488338 source:f:\personal projects\easy colours in c\test code\testprogram.c
+	<stdio.h>
+	"Easy_Colours.h"
+	<conio.h>
+
+1645488356 f:\personal projects\easy colours in c\easy_colours header\easy_colours.h
+	<windows.h>
+
